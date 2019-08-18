@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.1.2 (Python 3.7.4 on win32)" generated="20190818 12:31:58.635" rpa="false">
+<suite id="s1" name="MyFirstProject" source="C:\Eclipse\MyFirstProject">
+<suite id="s1-s1" name="TestSuite" source="C:\Eclipse\MyFirstProject\TestSuite">
+<suite id="s1-s1-s1" name="TestSuite" source="C:\Eclipse\MyFirstProject\TestSuite\TestSuite.robot">
+<test id="s1-s1-s1-t1" name="MyFirstTestCase">
+<kw name="Open Browser" library="SeleniumLibrary">
+<doc>Opens a new browser instance to the given ``url``.</doc>
+<arguments>
+<arg>https://angular.io/</arg>
+<arg>firefox</arg>
+</arguments>
+<msg timestamp="20190818 12:31:59.800" level="INFO">Opening browser 'firefox' to base url 'https://angular.io/'.</msg>
+<status status="PASS" starttime="20190818 12:31:59.799" endtime="20190818 12:32:24.197"></status>
+</kw>
+<kw name="Set Browser Implicit Wait" library="SeleniumLibrary">
+<doc>Sets the implicit wait value used by Selenium.</doc>
+<arguments>
+<arg>5</arg>
+</arguments>
+<status status="PASS" starttime="20190818 12:32:24.198" endtime="20190818 12:32:24.235"></status>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click element identified by ``locator``.</doc>
+<arguments>
+<arg>//*[contains(.,'EVENTS')]</arg>
+</arguments>
+<msg timestamp="20190818 12:32:24.238" level="INFO">Clicking element '//*[contains(.,'EVENTS')]'.</msg>
+<kw name="Capture Page Screenshot" library="SeleniumLibrary">
+<doc>Takes screenshot of the current page and embeds it into log file.</doc>
+<msg timestamp="20190818 12:32:29.633" level="INFO" html="yes">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-5.png"&gt;&lt;img src="selenium-screenshot-5.png" width="800px"&gt;&lt;/a&gt;</msg>
+<status status="PASS" starttime="20190818 12:32:29.446" endtime="20190818 12:32:29.634"></status>
+</kw>
+<msg timestamp="20190818 12:32:30.520" level="FAIL">Element with locator '//*[contains(.,'EVENTS')]' not found.</msg>
+<status status="FAIL" starttime="20190818 12:32:24.236" endtime="20190818 12:32:30.520"></status>
+</kw>
+<status status="FAIL" starttime="20190818 12:31:59.797" endtime="20190818 12:32:30.521" critical="yes">Element with locator '//*[contains(.,'EVENTS')]' not found.</status>
+</test>
+<status status="FAIL" starttime="20190818 12:31:59.018" endtime="20190818 12:32:30.525"></status>
+</suite>
+<status status="FAIL" starttime="20190818 12:31:59.006" endtime="20190818 12:32:30.532"></status>
+</suite>
+<status status="FAIL" starttime="20190818 12:31:58.929" endtime="20190818 12:32:30.537"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1">Critical Tests</stat>
+<stat pass="0" fail="1">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" id="s1" name="MyFirstProject">MyFirstProject</stat>
+<stat pass="0" fail="1" id="s1-s1" name="TestSuite">MyFirstProject.TestSuite</stat>
+<stat pass="0" fail="1" id="s1-s1-s1" name="TestSuite">MyFirstProject.TestSuite.TestSuite</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
