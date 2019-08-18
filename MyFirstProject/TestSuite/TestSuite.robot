@@ -12,3 +12,7 @@ MyFirstTestCase
     Open Browser    https://google.com   firefox
     Set Browser Implicit Wait    5
     Close Browser 
+ MythirdTestCase 
+    Open Browser    https://google.com   firefox
+    Set Browser Implicit Wait    5
+    Close Browser 
