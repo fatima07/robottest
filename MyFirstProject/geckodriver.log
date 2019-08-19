@@ -1,0 +1,118 @@
+1565261825642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mohamed\\AppData\\Local\\Temp\\rust_mozprofile.RJqDOWNQeAPP"
+1565261827843	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565261827844	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1565261827845	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565261827845	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565261837357	Marionette	INFO	Listening on port 49579
+1565261837810	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565222410127%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1518: TypeError: currentPanel is undefined
+[Parent 3552, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript warning: resource:///modules/UrlbarView.jsm, line 123: Array.reduce is deprecated; use Array.prototype.reduce instead
+1565263717789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mohamed\\AppData\\Local\\Temp\\rust_mozprofile.RbibXKEEA4NO"
+1565263719637	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565263719637	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1565263719638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565263719639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565263727094	Marionette	INFO	Listening on port 49888
+1565263727161	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: resource:///modules/UrlbarView.jsm, line 123: Array.reduce is deprecated; use Array.prototype.reduce instead
+[Parent 5016, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 5016, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.95.js, line 32: Array.slice is deprecated; use Array.prototype.slice instead
+JavaScript error: https://dco-assets.everestads.net/ics-campaign//5031/t/6722/5/PPTDesktop/O365_CreateYourBestWork_USA_300x600_BAN_PowerPoint_3D_NA_NA_ANI_BN_T1_1.htm, line 234: TypeError: exportRoot.initBanner is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565222410127%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.95.js, line 32: Array.slice is deprecated; use Array.prototype.slice instead
+JavaScript error: https://contextual.media.net/fcmdynet.js?&gdpr=1&cid=8CUQBB2U5&cpcd=7xRa5ccNXLLzdohX57nd7w%3D%3D&crid=441289839&size=641x481&cc=FR&https=1&vif=0&requrl=https%3A%2F%2Fwww.guru99.com%2Fxpath-selenium.html&kwrf=https%3A%2F%2Fwww.google.com&nse=3&vi=1565264286746427355&lw=1&ugd=4&insl=1, line 260: TypeError: _mNDetails._mNVI is undefined
+JavaScript error: https://fw.adsafeprotected.com/rjss/bgd/296892/37073982/xbbe/creative/adj?p=APEucNUomsfrqjSjn6GtOuy6o7anGUoJRwke2eNXf_MjHzZxa4pR6Ts&d=CkkAoCZ_4P5xyNLAT1-IpMJHbKZu40jTPnx5pdlQCddzwvI8kOKoOB8nyEnwaDV6k4MYSUlxtCSgV7qG4gEL6WOCc1C6F-qVCfHNEqkQAKAmf-ADG1H3V8_Y3ZgCMrOYy7QxH9QIAMwtPlaIWr_eAxkkvQrFBruD9cQXKWtEKtAf_7aNpEibcePAplGv4zsPf5zBB2sJ8lXL_ZFcdk6Y3taAKBGn3WzEUYruqoGczgHeOQHXOXKWa50uT6JFFqwIIg47eaI6D5DvR8PQPDIdZhx7mYgS2gYXqnTuQ0oLdxw8cztxDCsZzmCHlbH0eYSy9wn6_fpcVrdfXyA5NudVSJyVvfTElddXLF_MK_HyovVwn3DmzeAs1ISzcjH2qpLObrQjuOJSClzN1Mi6sghpGPAwSbd3lHMj-EQBhPAe6YOzirZ1_fj_CWZUJp8yfd_ti51A4Ktv30d2V_SOyBUCQy_cqUF0-7EzUhZh7FDvASFwPq_GccQ4MGu7oyOpSta68NMP4owUPXkYt6Se2YHPbuwtHvId5mMHWk2Nsy8rVK4zOK_OOeQuVi2nUqyg1zqoVGXQAoh9ZJegi3eg1XMMSas_nwId1JAGnMhuaTdEqry_TxuUMkQWDna7je9WzkTMkVgmpSraJ85c8A10aEaoWcvsFT2_AZ6QcH9bmBRf9VN1Zl0_nfK_vn3hufjc2tZec5DZGTdYrmYWulDVWd5Bo2IYbHi92Az7Pa3NO3mfCcH4HMPNNx-hFMnZ6DKH-JH79ttFNUnk59tSps3LgMejTRyhj25pENcrvNpvvj9j2_snbIzOopis0axxP0kbenaV1_qBrmlz2VVv4QUjin7tphmvEubS2vsRolcFlFsLapcHyPCYKJ-EP9kQZjl1v03Jc0uXjdqCRDU0S_d3m8ibltOVPCJhP-2XTFWbiLOFEJ-VwctlIuRZEIU2Bj1-HmdDilCdUebDRUGmVEsq0G4BfpQ6ZlNzyRt8zTW78x1eAC_XGYMtsmpgDKXz-5yYxdnWQFIk__AGwYUuXyghQvW74qHK1UxYsjuagQc2oHwzZlnh504i_mgffTtQEq172X9V7J--FWq4KVumrcxg6GoxOjetSLwOtff-oZQEHLLEsSItXxD2PuTCr0qr57I_B2ZqPEME68dmhKqedK1DRF0_OxGeRMB2tWyEmIsfqQX5L8pXKz3wXRWY29TfUnd6QbftMDqoEtxR2q4x0opFBwoS6Z9yhkgUFine8wY1vk2LcKqLSwQWgI4lDFHHP1L2eMyHeRXWXcjY2T6dD1WZudFurDLrg9A_HODwb2i2GuNAUtaUsUYwv_Y5z9KRsTvqxhb4pp2yBa0sJe4pTAFEP3nXrlZH2tUp35B6hYNQTjti3AjgAXlcQLdifiRFYXw-cF-IqKbBxImnOlL01uX2Ad_Q_WKhduywEWK9O-fIcQah7Y2CubMwWMNEhkqfd8q5gwK09oU1hYY7w9UyxInTUUp2qu4DNGQM7B3Q1WBgx8ZsnVQUHaeuiwmq7LY_qVCubUmG0IE87NH0NrWjJuF0KTu0A7G4K_FAD8Zd-6za9hlHISgwokrIq5G9VuEp5NEwkeg1DGbOQy7FbhGW8pHe026OXFBmJsE2DaCR7lIP8BPZJ-S7BKLtthtz7JUxHxVt60PfU9d8IQH8gemGplIM-bTiZIvQU4XtCqU8OIKE1ctryziSRikOswfiTXYVxoqoUZejKuTAe0TbvuqKdvEUIYzjB4bkfevNqXjft-rGV6TYSkdIUU6exoioiz88TFFGnx52X92CZ-iVL5GdedcameS7XfH0y1BSeU8wrYWADdeZTStJXZDeZdxqdtTycSwzF5ra41n7J9-kcJeTyZO7nUH3vPIHGZB95RTflpU_WuG21e4AvIgFuFYrh-FMjjEEpmczuoNYn7qxAMeqtq40BiTi9ulN5KSCE5lfRZkf-WEm5B5daBgeyfbo0uv02dld5a5lYYv4yfCyYmE4FIw1NPcOO27Dq_nhkFbrUfEOB0IA18Dag3fN74jxbiEg0a0dxj_ip60PtyWxKnSVLgq3g_V2XyBPw0-mjZVeLiRNSSbcyjMIQ7cHQC5B5z9SpTR2u-mdr4QfX5ddyd-jnMf-J4JzGMTLEtZ7on5XzbsTFn1GgQEpnIufsh-mai76GtQOIdb5qS0UGv1pk1b6uVANEYUotxF1BZu5vvBPdv4ZaPOhnhQWZWyurMBEh0YxiSFNg22IRS3_iflZ7lDlBaUvLn_cgHL9w3cvc9Zw8OaQnWBP52Az4DlrUkgt1Jfbs6tlzizl2m1dMDjIkGNduUYtmMEzG37YZsP1bE6eXQQduyhvpYdTK9v2QEK3cL-Y75vHtv75cbDD7U-Rtrb0rgob4tCHJCvhhv76ctm6Zfz5cNsifULhLu2QPouyPiNMq7TdYXgwh9kM8T_edb8HhUslBjrvE1L9XNGG-xIDL9yyd7I162lCQzA_RNepJcyhgeDS1ViVvxfnCGf56f2t3e4zkHwWmc0zC7uEYW9t04BrxeUmdWcvZYEALt4iQc5pgvv9Oh4D1dZ_8tYX4A-gsB-GmF4gjayujZwj11e5iH7i_5d8Kc3Qjf2KuB-XjOf2AX0ttm4i40CsAmFpAifGS0fR0G2yr7w5Jpl2Bs9b_HfHpom6bz7ZDHH0hPeQB5og4xNyU_3EchS6t8ENh-QFFBEn9EM-QOjMSWaS_rkDJxLAmEGPuOOKHjuMjk082v8WjjmVgfnV-DUslCIAWcyqG6OuixmsKZPoS_zBbfM6sljDQRzC50bMaNBoq38gaFUhczlQSszGolkKRIKum0mMP0f77WquBp-JyRNOpfiWBiLXn_-Izre8a30sNre9_zDEjY-8YjH3UMfD42FVfRoWCAASEuRoDzzTcfgzTpqdRieXt3Rcj2AB, line 1049: TypeError: d is undefined
+JavaScript error: https://fw.adsafeprotected.com/rjss/bgd/296892/37073982/xbbe/creative/adj?p=APEucNUomsfrqjSjn6GtOuy6o7anGUoJRwke2eNXf_MjHzZxa4pR6Ts&d=CkkAoCZ_4P5xyNLAT1-IpMJHbKZu40jTPnx5pdlQCddzwvI8kOKoOB8nyEnwaDV6k4MYSUlxtCSgV7qG4gEL6WOCc1C6F-qVCfHNEqkQAKAmf-ADG1H3V8_Y3ZgCMrOYy7QxH9QIAMwtPlaIWr_eAxkkvQrFBruD9cQXKWtEKtAf_7aNpEibcePAplGv4zsPf5zBB2sJ8lXL_ZFcdk6Y3taAKBGn3WzEUYruqoGczgHeOQHXOXKWa50uT6JFFqwIIg47eaI6D5DvR8PQPDIdZhx7mYgS2gYXqnTuQ0oLdxw8cztxDCsZzmCHlbH0eYSy9wn6_fpcVrdfXyA5NudVSJyVvfTElddXLF_MK_HyovVwn3DmzeAs1ISzcjH2qpLObrQjuOJSClzN1Mi6sghpGPAwSbd3lHMj-EQBhPAe6YOzirZ1_fj_CWZUJp8yfd_ti51A4Ktv30d2V_SOyBUCQy_cqUF0-7EzUhZh7FDvASFwPq_GccQ4MGu7oyOpSta68NMP4owUPXkYt6Se2YHPbuwtHvId5mMHWk2Nsy8rVK4zOK_OOeQuVi2nUqyg1zqoVGXQAoh9ZJegi3eg1XMMSas_nwId1JAGnMhuaTdEqry_TxuUMkQWDna7je9WzkTMkVgmpSraJ85c8A10aEaoWcvsFT2_AZ6QcH9bmBRf9VN1Zl0_nfK_vn3hufjc2tZec5DZGTdYrmYWulDVWd5Bo2IYbHi92Az7Pa3NO3mfCcH4HMPNNx-hFMnZ6DKH-JH79ttFNUnk59tSps3LgMejTRyhj25pENcrvNpvvj9j2_snbIzOopis0axxP0kbenaV1_qBrmlz2VVv4QUjin7tphmvEubS2vsRolcFlFsLapcHyPCYKJ-EP9kQZjl1v03Jc0uXjdqCRDU0S_d3m8ibltOVPCJhP-2XTFWbiLOFEJ-VwctlIuRZEIU2Bj1-HmdDilCdUebDRUGmVEsq0G4BfpQ6ZlNzyRt8zTW78x1eAC_XGYMtsmpgDKXz-5yYxdnWQFIk__AGwYUuXyghQvW74qHK1UxYsjuagQc2oHwzZlnh504i_mgffTtQEq172X9V7J--FWq4KVumrcxg6GoxOjetSLwOtff-oZQEHLLEsSItXxD2PuTCr0qr57I_B2ZqPEME68dmhKqedK1DRF0_OxGeRMB2tWyEmIsfqQX5L8pXKz3wXRWY29TfUnd6QbftMDqoEtxR2q4x0opFBwoS6Z9yhkgUFine8wY1vk2LcKqLSwQWgI4lDFHHP1L2eMyHeRXWXcjY2T6dD1WZudFurDLrg9A_HODwb2i2GuNAUtaUsUYwv_Y5z9KRsTvqxhb4pp2yBa0sJe4pTAFEP3nXrlZH2tUp35B6hYNQTjti3AjgAXlcQLdifiRFYXw-cF-IqKbBxImnOlL01uX2Ad_Q_WKhduywEWK9O-fIcQah7Y2CubMwWMNEhkqfd8q5gwK09oU1hYY7w9UyxInTUUp2qu4DNGQM7B3Q1WBgx8ZsnVQUHaeuiwmq7LY_qVCubUmG0IE87NH0NrWjJuF0KTu0A7G4K_FAD8Zd-6za9hlHISgwokrIq5G9VuEp5NEwkeg1DGbOQy7FbhGW8pHe026OXFBmJsE2DaCR7lIP8BPZJ-S7BKLtthtz7JUxHxVt60PfU9d8IQH8gemGplIM-bTiZIvQU4XtCqU8OIKE1ctryziSRikOswfiTXYVxoqoUZejKuTAe0TbvuqKdvEUIYzjB4bkfevNqXjft-rGV6TYSkdIUU6exoioiz88TFFGnx52X92CZ-iVL5GdedcameS7XfH0y1BSeU8wrYWADdeZTStJXZDeZdxqdtTycSwzF5ra41n7J9-kcJeTyZO7nUH3vPIHGZB95RTflpU_WuG21e4AvIgFuFYrh-FMjjEEpmczuoNYn7qxAMeqtq40BiTi9ulN5KSCE5lfRZkf-WEm5B5daBgeyfbo0uv02dld5a5lYYv4yfCyYmE4FIw1NPcOO27Dq_nhkFbrUfEOB0IA18Dag3fN74jxbiEg0a0dxj_ip60PtyWxKnSVLgq3g_V2XyBPw0-mjZVeLiRNSSbcyjMIQ7cHQC5B5z9SpTR2u-mdr4QfX5ddyd-jnMf-J4JzGMTLEtZ7on5XzbsTFn1GgQEpnIufsh-mai76GtQOIdb5qS0UGv1pk1b6uVANEYUotxF1BZu5vvBPdv4ZaPOhnhQWZWyurMBEh0YxiSFNg22IRS3_iflZ7lDlBaUvLn_cgHL9w3cvc9Zw8OaQnWBP52Az4DlrUkgt1Jfbs6tlzizl2m1dMDjIkGNduUYtmMEzG37YZsP1bE6eXQQduyhvpYdTK9v2QEK3cL-Y75vHtv75cbDD7U-Rtrb0rgob4tCHJCvhhv76ctm6Zfz5cNsifULhLu2QPouyPiNMq7TdYXgwh9kM8T_edb8HhUslBjrvE1L9XNGG-xIDL9yyd7I162lCQzA_RNepJcyhgeDS1ViVvxfnCGf56f2t3e4zkHwWmc0zC7uEYW9t04BrxeUmdWcvZYEALt4iQc5pgvv9Oh4D1dZ_8tYX4A-gsB-GmF4gjayujZwj11e5iH7i_5d8Kc3Qjf2KuB-XjOf2AX0ttm4i40CsAmFpAifGS0fR0G2yr7w5Jpl2Bs9b_HfHpom6bz7ZDHH0hPeQB5og4xNyU_3EchS6t8ENh-QFFBEn9EM-QOjMSWaS_rkDJxLAmEGPuOOKHjuMjk082v8WjjmVgfnV-DUslCIAWcyqG6OuixmsKZPoS_zBbfM6sljDQRzC50bMaNBoq38gaFUhczlQSszGolkKRIKum0mMP0f77WquBp-JyRNOpfiWBiLXn_-Izre8a30sNre9_zDEjY-8YjH3UMfD42FVfRoWCAASEuRoDzzTcfgzTpqdRieXt3Rcj2AB, line 1049: TypeError: d is undefined
+[Parent 5016, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1565264556719	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mohamed\\AppData\\Local\\Temp\\rust_mozprofile.t6ktWvushpuF"
+1565264558688	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565264558689	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1565264558690	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565264558690	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565264568584	Marionette	INFO	Listening on port 50314
+1565264569050	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565222410127%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+tension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1565264586907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565264586908	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565264596062	Marionette	INFO	Listening on port 50357
+1565264596165	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: resource:///modules/UrlbarView.jsm, line 123: Array.reduce is deprecated; use Array.prototype.reduce instead
+[Parent 3432, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1565562619630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mohamed\\AppData\\Local\\Temp\\rust_mozprofile.4BxecE8pB4n1"
+1565562621773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565562621773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1565562621774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565562621775	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565562631483	Marionette	INFO	Listening on port 52706
+1565562631895	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7328, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 7328, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 7328, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1565562652602	Marionette	INFO	Stopped listening on port 52706
+[GPU 8008, C[Parent 7328, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+1565562662666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mohamed\\AppData\\Local\\Temp\\rust_mozprofile.8ERMuAEB181f"
+1565562664358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565562664359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1565562664360	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565562664360	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565562672134	Marionette	INFO	Listening on port 52759
+1565562672607	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6216, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 6216, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 6216, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1565562697829	Marionette	INFO	Stopped listening on port 52759
+[Parent 6216, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1566124323613	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mohamed\\AppData\\Local\\Temp\\rust_mozprofile.DNDTy2sgQXnM"
+1566124326702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566124326702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566124326703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566124326704	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566124339359	Marionette	INFO	Listening on port 49921
+1566124339974	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221566000009000%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
